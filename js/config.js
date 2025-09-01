@@ -132,20 +132,6 @@ const API_SITES = {
         adult: true
     },
     // === 新增资源开始 ===
-    siwa: {
-        api: 'https://www.siwazyw.tv/api.php/provide/vod/at/json/',
-        name: '丝袜资源'
-    },
-    danaizi: {
-        api: 'https://apidanaizi.com/api.php/provide/vod/at/xml/',
-        name: '奶奶资源',
-        adult: true
-    },
-    taohua: {
-        api: 'https://thzy1.me/api.php/provide/vod/?ac=list',
-        name: '桃花视频',
-        adult: true
-    },
     huaya: {
         api: 'https://www.huyaapi.com/api.php/provide/vod/at/json',
         name: '虎牙资源'
@@ -154,38 +140,15 @@ const API_SITES = {
         api: 'https://taopianapi.com/cjapi/sda/vod/json.html',
         name: '淘片资源'
     },
-    souav: {
-        api: 'https://api.souavzy.vip/api.php/provide/vod/at/xml',
-        name: '搜片资源',
-        adult: true
-    },
     didi: {
         api: 'https://api.ddapi.cc/api.php/provide/vod/?ac=list',
         name: '滴滴资源'
-    },
-    naixiang: {
-        api: 'https://naixxzy.com/api.php/provide/vod/?ac=list',
-        name: '奶香资源'
     },
     jinyingyun: {
         api: 'https://jyzyapi.com/provide/vod/from/jinyingyun/at/json',
         name: '金鹰云资源'
     },
-    fanhao1: {
-        api: 'http://fhapi9.com/api.php/provide/vod/at/json/?ac=list',
-        name: '番号资源1',
-        adult: true
-    },
-    laoseb: {
-        api: 'https://apilsbzy1.com/api.php/provide/vod/?ac=list',
-        name: '老B资源',
-        adult: true
-    },
-    fanhao2: {
-        api: 'http://fhapi9.com/api.php/provide/vod/at/json/',
-        name: '番号资源2',
-        adult: true
-    },
+
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
