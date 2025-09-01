@@ -1,10 +1,5 @@
 // 密码保护功能
 
-const PASSWORD_CONFIG = {
-    localStorageKey: 'libretv_password_verified',
-    verificationTTL: 7 * 24 * 60 * 60 * 1000 // 一周有效期
-};
-
 /**
  * 检查是否设置了密码保护
  * 通过读取页面上嵌入的环境变量来检查
