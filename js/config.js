@@ -132,10 +132,6 @@ const API_SITES = {
         adult: true
     },
     // === 新增资源开始 ===
-    huaya: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod/at/json',
-        name: '虎牙资源'
-    },
     taopian: {
         api: 'https://taopianapi.com/cjapi/sda/vod/json.html',
         name: '淘片资源'
