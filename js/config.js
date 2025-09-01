@@ -185,7 +185,7 @@ const API_SITES = {
         api: 'http://fhapi9.com/api.php/provide/vod/at/json/',
         name: '番号资源2',
         adult: true
-    }，
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
